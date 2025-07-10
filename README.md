@@ -28,8 +28,5 @@ The project uses a public HAR dataset recorded from smartphone sensors. Each rec
 - Accelerometer (X, Y, Z)
 - Gyroscope (X, Y, Z)
 - Timestamped labels (e.g., Walking, Sitting, Jogging)
-
-> Refer to `dataset/README.txt` or Jupyter notebooks for preprocessing steps and data structure.
-
 ---
 
